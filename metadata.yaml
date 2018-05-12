@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39255'
     url: http://www.gutenberg.org/2009/agents/39255
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38130#Legends-of-LoudounVirginia-s-Northern-Neck
 gutenberg_issued: '2011-11-25'
 gutenberg_type: Text
 identifiers:
