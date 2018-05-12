@@ -1,0 +1,29 @@
+_repo: Legends-of-LoudounVirginia-s-Northern-Neck_38130
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Williams, Harrison
+    birthdate: 1873
+    deathdate: 1946
+    gutenberg_agent_id: '39255'
+    url: http://www.gutenberg.org/2009/agents/39255
+description: ''
+gutenberg_issued: '2011-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38130'
+  lccn: '38013528'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historic buildings -- Virginia -- Loudoun County'
+- !lcsh 'Loudoun County (Va.) -- History'
+- !lcc 'F206'
+title: "Legends of Loudoun\r\nAn account of the history and homes of a border county\
+  \ of Virginia's Northern Neck"
+url: http://www.gutenberg.org/ebooks/38130
